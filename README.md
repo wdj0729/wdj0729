@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Algorithm, Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wdj0729?tab=repositories](https://github.com/wdj0729?tab=repositories)
-
 - 📫 How to reach me **wdj930729@naver.com**
 
 <p align="left">
