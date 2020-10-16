@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdj0729" alt="wdj0729" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithm, Computer Science Lecture**
+- 🌱 I’m currently learning **Algorithm, Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wdj0729?tab=repositories](https://github.com/wdj0729?tab=repositories)
 
