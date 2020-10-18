@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm SoF</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h3 align="center">A creative frontend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdj0729&label=Profile%20views&color=0e75b6&style=flat" alt="wdj0729" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdj0729" alt="wdj0729" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithm, Computer Science**
+- 💻 I’m currently learning **Svelte**
 
-- 📫 How to reach me **wdj930729@naver.com**
+- ✏ I’m nowadays studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
+
+- ✉ How to reach me **wdj930729@naver.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
