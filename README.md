@@ -9,7 +9,7 @@
 
 - ✏ Also I’m recently studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
 
-- ✉ How to reach me **wdj930729@naver.com**
+- ✉ How to reach me **wdj930729@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
