@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **Svelte**
 
-- ✏ I’m nowadays studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
+- ✏ Also I’m recently studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
 
 - ✉ How to reach me **wdj930729@naver.com**
 
