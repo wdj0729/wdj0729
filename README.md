@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdj0729&layout=compact" alt="wdj0729" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wdj0729&show_icons=true" alt="wdj0729" /></p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wdj0729)](https://solved.ac/wdj0729)
