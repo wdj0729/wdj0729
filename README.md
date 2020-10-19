@@ -9,7 +9,7 @@
 
 - ✏ Also I’m recently studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
 
-- 👨‍💻 All of my projects are available at [wdj0729.github.io/resume](wdj0729.github.io/resume)
+- 👨‍💻 All of my projects are available at [wdj0729.github.io/resume](https://wdj0729.github.io/resume)
 
 - ✉ How to reach me **wdj930729@gmail.com**
 
