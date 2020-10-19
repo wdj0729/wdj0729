@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdj0729" alt="wdj0729" /></a> </p>
 
-- 💻 I’m currently learning a **ES6, Svelte, TypeScript**
+- 📖 I’m currently learning a **ES6, Svelte, TypeScript**
 
 - ✏ Also I’m recently studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
+
+- 👨‍💻 All of my projects are available at [wdj0729.github.io/resume](wdj0729.github.io/resume)
 
 - ✉ How to reach me **wdj930729@gmail.com**
 
