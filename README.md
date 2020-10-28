@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wdj0729&show_icons=true" alt="wdj0729" /></p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={wdj0729})](https://solved.ac/{wdj0729})
