@@ -7,7 +7,7 @@
 
 - 📖 I’m currently learning a **Svelte, TypeScript, GrpahQL**
 
-- ✏ Also I’m recently studying on **Programmers, BOJ, Codeforces, LeetCode, AtCoder**
+- ✏ Also I’m recently studying on **BOJ, Programmers, Codeforces, AtCoder**
 
 - 👨‍💻 My resume is available at [wdj0729.github.io/resume](https://wdj0729.github.io/resume)
 
