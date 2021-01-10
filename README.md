@@ -9,8 +9,6 @@
 
 - ✏ Also I’m recently studying on **BOJ, Codeforces, AtCoder**
 
-- 👨‍💻 My resume is available at [wdj0729.github.io/resume](https://wdj0729.github.io/resume)
-
 - ✉ How to reach me **wdj930729@gmail.com**
 
 <p align="left">
