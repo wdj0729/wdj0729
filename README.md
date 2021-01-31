@@ -7,7 +7,7 @@
 
 - 📖 I’m currently learning **ES6, React, TypeScript**
 
-- ✏ Also I’m recently studying on **BOJ, Codeforces, AtCoder**
+- ✏ Also I’m recently studying on **[BOJ](https://www.acmicpc.net/user/wdj0729), [Codeforces](https://codeforces.com/profile/wdj0729), [AtCoder](https://atcoder.jp/users/wdj0729)**
 
 - ✉ How to reach me **wdj930729@gmail.com**
 
