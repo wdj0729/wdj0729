@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdj0729" alt="wdj0729" /></a> </p>
 
-- 📖 I’m currently learning **ES6, React, TypeScript**
+- 📖 I’m currently learning **React, TypeScript**
 
 - ✏ Also I’m recently studying on **[BOJ](https://www.acmicpc.net/user/wdj0729), [Codeforces](https://codeforces.com/profile/wdj0729), [AtCoder](https://atcoder.jp/users/wdj0729)**
 
