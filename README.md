@@ -7,7 +7,7 @@
 
 - 📖 I’m currently learning **React**
 
-- 📝 I sometimes write articles on https://velog.io/@devsof
+- 📝 I sometimes write articles on **https://velog.io/@devsof**
 
 - ✏ Also I’m recently studying on **[Baekjoon](https://www.acmicpc.net/user/wdj0729), [AtCoder](https://atcoder.jp/users/wdj0729)**
 
