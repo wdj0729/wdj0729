@@ -9,8 +9,6 @@
 
 - 📝 I sometimes write articles on **https://velog.io/@devsof**
 
-- ✏ Also I’m recently studying on **[Leetcode](https://leetcode.com/wdj930729)**
-
 - 📫 My Portfolio is available in here **[Notion](https://wdj0729.notion.site/wdj0729/Jay-df984ad557e9438b9c600badc8fe897a)**
 
 - 📧 How to reach me **wdj930729@gmail.com**
