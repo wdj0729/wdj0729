@@ -7,8 +7,6 @@
 
 - 📖 I’m currently learning **TypeScript, Next.js, React Query, Tailwind CSS**
 
-- 📝 I sometimes write articles on **https://velog.io/@devsof**
-
 - 📧 How to reach me **sof0810@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
