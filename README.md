@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SoF</h1>
-<h3 align="center">A Creative Frontend Developer from South Korea</h3>
+<h3 align="center">A Creative Frontend Web Developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdj0729&label=Profile%20views&color=0e75b6&style=flat" alt="wdj0729" /> </p>
 
